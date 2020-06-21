@@ -1,0 +1,50 @@
+{
+	"phrases": {
+		"General": {
+			"YeastStew": "Mezla",
+			"Cleanit": "Límpialo!",
+			"Fermenting": "ermentando!",
+			"ConstrtuctionCancelled": "Construcción Cancelada!",
+			"BuyInfo": "Has comprado la mejora $ItemName por $Currency$ItemPrice!",
+			"Sugar": "Azucar",
+			"ReleaseWater": "Drenar agua",
+			"Fuel": "Combustible",
+			"WrongUserGroup": "..",
+			"Inventoryempty": "Inventario Moonshine está vacío!",
+			"Cooler": "Refrigeración",
+			"Shakeit": "Agítalo!",
+			"MissingCondenser": "Falta el condensador!",
+			"Condenser": "Condensador",
+			"Fermentation": "Barril de Fermentación",
+			"Collect": "Recoger",
+			"Water": "Agua",
+			"MoonshineJars": "Frascos de Licor!",
+			"Yeast": "Levadura",
+			"NoMoney": "No tienes suficiente dinero!",
+			"Depressurize": "Depresurizar",
+			"MissingCooler": "Falta la refrigeración!",
+			"Extract": "Extraer",
+			"Distillery": "Destilería",
+			"SellInfo": "Has vendido la mejora $ItemName por $Currency$ItemPrice!"
+		},
+		"NPC": {
+			"NoMoonshine": "Vuelve de vuelta cuando tengas licor para mi!    ",
+			"MoonshineBuyer": "Comprador de Licor    ",
+			"Jar": "Frasco   ",
+			"WrongJob": "Trabajo equivocado! ",
+			"SellInfo": "Has vendido $Amount frascos de licor por $Currency$MoneyAmount! "
+		},
+		"VGUI": {
+			"UpgradeTypeLimitReached": "No puedes tener más de una mejora del mismo tipo!",
+			"Speed": "Velocidad",
+			"Sell": "Vender",
+			"Buy": "Comprar",
+			"Production": "Producción",
+			"Ranks": "Rangos",
+			"Installed": "Instalado",
+			"UpgradeMenu": "Menú de Mejoras",
+			"Shop": "Tienda",
+			"UpgradeLimitReached": "Límite de mejoras alcanzado!"
+		}
+	}
+}

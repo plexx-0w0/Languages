@@ -1,0 +1,50 @@
+{
+	"phrases": {
+		"General": {
+			"YeastStew": "Maische",
+			"Cleanit": "Säubern!",
+			"Fermenting": "Gärt!",
+			"ConstrtuctionCancelled": "Konstruktion abgebrochen!!",
+			"BuyInfo": "Du hast das $ItemName Upgrade für $Currency$ItemPrice gekauft!",
+			"Sugar": "Zucker",
+			"ReleaseWater": "Wasser ablassen",
+			"Fuel": "Brennstoff",
+			"WrongUserGroup": "Falscher Rang!",
+			"Inventoryempty": "Moonshine Inventar is leer!",
+			"Cooler": "Kühlaggregat",
+			"Shakeit": "Schütteln!",
+			"MissingCondenser": "Kondensator  fehlt!",
+			"Condenser": "Kondensator",
+			"Fermentation": "Gärungsfass",
+			"Collect": "Sammeln",
+			"Water": "Wasser",
+			"MoonshineJars": "Moonshine Gläser!!",
+			"Yeast": "Hefe",
+			"NoMoney": "Du hast nicht genug Geld!",
+			"Depressurize": "Entlüften",
+			"MissingCooler": "Kühlaggregat fehlt!",
+			"Extract": "Herausnehmen",
+			"Distillery": "Brennerei",
+			"SellInfo": "Du hast das $ItemName Upgrade für $Currency$ItemPrice verkauft!"
+		},
+		"NPC": {
+			"NoMoonshine": "Komm wieder wenn du etwas Moonshine für mich hast!",
+			"MoonshineBuyer": "Moonshine Käufer",
+			"Jar": "Glas",
+			"WrongJob": "Falscher Job!",
+			"SellInfo": "Du hast $Amount Moonshine Glässer für $Currency$MoneyAmount!"
+		},
+		"VGUI": {
+			"UpgradeTypeLimitReached": "Du kannst nicht mehr als ein Upgrade der gleichen art haben!",
+			"Speed": "Geschwindigkeit",
+			"Sell": "Verkaufen",
+			"Buy": "Kaufen",
+			"Production": "Produktion",
+			"Ranks": "Ränge",
+			"Installed": "Installiert",
+			"UpgradeMenu": "Upgrade Menü",
+			"Shop": "Shop",
+			"UpgradeLimitReached": "Upgrade Limit erreicht!"
+		}
+	}
+}

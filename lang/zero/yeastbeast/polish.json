@@ -1,0 +1,50 @@
+{
+	"phrases": {
+		"General": {
+			"YeastStew": "Zacier",
+			"Cleanit": "Wyczyść to!",
+			"Fermenting": "Fermentujący!",
+			"ConstrtuctionCancelled": "Konstrukcja anulowana!",
+			"BuyInfo": "Kupiłeś $ItemName ulepszenie za $Currency$ItemPrice!",
+			"Sugar": "Cukier",
+			"ReleaseWater": "Uwolnij wodę",
+			"Fuel": "Paliwo",
+			"WrongUserGroup": "Zła grupa użytkownika! (UserGroup)",
+			"Inventoryempty": "Inwentarz Księżyca jest pusty!",
+			"Cooler": "Chłodnica",
+			"Shakeit": "Potrząśnij tym!",
+			"MissingCondenser": "Brakuje skraplacza!",
+			"Condenser": "Skraplacz",
+			"Fermentation": "Beczka fermentacyjna",
+			"Collect": "Zbierać",
+			"Water": "Woda",
+			"MoonshineJars": "Słoiki bimbru!",
+			"Yeast": "Drożdże",
+			"NoMoney": "Nie masz wystarczająco pieniędzy!",
+			"Depressurize": "Rozhermetyzuj",
+			"MissingCooler": "Brakuje chłodnicy!",
+			"Extract": "Wyciąg",
+			"Distillery": "Destylarnia",
+			"SellInfo": "Sprzedałeś $ItemName ulepszenie za $Currency$ItemPrice!"
+		},
+		"NPC": {
+			"NoMoonshine": "Wróć kiedy będziesz miał dla mnie bimber!",
+			"MoonshineBuyer": "Kupiec Bimbru",
+			"Jar": "Słoik",
+			"WrongJob": "Zła praca!",
+			"SellInfo": "Sprzedałeś $Amount słoików bimbru za $Currency$MoneyAmount!"
+		},
+		"VGUI": {
+			"UpgradeTypeLimitReached": "Nie możesz posiadać więcej ulepszeń tego typu!",
+			"Speed": "Prędkość",
+			"Sell": "Sprzedaj",
+			"Buy": "Zakup",
+			"Production": "Produkcja",
+			"Ranks": "Rangi",
+			"Installed": "Zainstalowano",
+			"UpgradeMenu": "Menu ulepszeń",
+			"Shop": "Sklep",
+			"UpgradeLimitReached": "Limit ulepszeń osiągnięty"
+		}
+	}
+}

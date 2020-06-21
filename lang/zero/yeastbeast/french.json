@@ -1,0 +1,50 @@
+{
+	"phrases": {
+		"General": {
+			"YeastStew": "Purée",
+			"Cleanit": "Nettoyez-le!",
+			"Fermenting": "Fermentation",
+			"ConstrtuctionCancelled": "Construction annulée!",
+			"BuyInfo": "Vous avez acheté l'amélioration $ItemName pour $Currency$ItemPrice!",
+			"Sugar": "Sucre",
+			"ReleaseWater": "Libérer de l'eau",
+			"Fuel": "Carburant",
+			"WrongUserGroup": "Mauvais groupe d'utilisateur!",
+			"Inventoryempty": "Moonshine Inventory est vide!",
+			"Cooler": "Refroidisseur",
+			"Shakeit": "Secoue-le!",
+			"MissingCondenser": "Condenseur manquant!",
+			"Condenser": "Condenseur",
+			"Fermentation": "Baril de fermentation",
+			"Collect": "Collecte",
+			"Water": "Eau",
+			"MoonshineJars": "Pot d'alcool de contrebande!",
+			"Yeast": "Levure",
+			"NoMoney": "Vous n'avez pas assez d'argent!",
+			"Depressurize": "Dépressuriser",
+			"MissingCooler": "Refroidisseur manquant!",
+			"Extract": "Extrait",
+			"Distillery": "Distillerie",
+			"SellInfo": "Vous avez vendu l'amélioration $ItemName pour $Currency$ItemPrice!"
+		},
+		"NPC": {
+			"NoMoonshine": "Reviens quand tu as quelque chose pour moi!",
+			"MoonshineBuyer": "Acheteur d'alcool de contrebande",
+			"Jar": "Pot",
+			"WrongJob": "Mauvais métier!",
+			"SellInfo": "Vosu avez vendu $Amount pot d'alcool de contrebande contre $Currency$MoneyAmount!"
+		},
+		"VGUI": {
+			"UpgradeTypeLimitReached": "Vous ne pouvez pas avoir plus d'améliorations du même type!",
+			"Speed": "Vitesse",
+			"Sell": "Vendre",
+			"Buy": "Acheté",
+			"Production": "Production",
+			"Ranks": "Grades",
+			"Installed": "Installé",
+			"UpgradeMenu": "Menu des améliorations",
+			"Shop": "Boutique",
+			"UpgradeLimitReached": "Limite d'amélioration atteinte"
+		}
+	}
+}

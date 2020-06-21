@@ -1,0 +1,50 @@
+{
+	"phrases": {
+		"General": {
+			"YeastStew": "Gærstuing",
+			"Cleanit": "Rengør det!!",
+			"Fermenting": "Gæring!!",
+			"ConstrtuctionCancelled": "Konstruktion Annulleret!",
+			"BuyInfo": "Du købte $ItemName opgradering for $Currency$ItemPrice!",
+			"Sugar": "Sukker",
+			"ReleaseWater": "Frigiv Vand",
+			"Fuel": "Brændstof",
+			"WrongUserGroup": "Forkerte UserGroup!",
+			"Inventoryempty": "Hjemmebryg beholdning tom!",
+			"Cooler": "Køler",
+			"Shakeit": "Ryst det!!",
+			"MissingCondenser": "Mangler Kondensator!",
+			"Condenser": "Kondensator",
+			"Fermentation": "Fermenterings Tønde",
+			"Collect": "Indsaml",
+			"Water": "Vand",
+			"MoonshineJars": "Hjemmebryg Krukker!",
+			"Yeast": "Gær",
+			"NoMoney": "Du har ikke nok penge!",
+			"Depressurize": "Tag trykket af",
+			"MissingCooler": "Mangler Køler!",
+			"Extract": "Uddrag",
+			"Distillery": "Destilleri",
+			"SellInfo": "Du solgte $ItemName opgradering $Currency$ItemPrice!"
+		},
+		"NPC": {
+			"NoMoonshine": "Kom tilbage, når du har noget Hjemmebryg til mig!",
+			"MoonshineBuyer": "Hjemmebryg Køber",
+			"Jar": "Krukke",
+			"WrongJob": "Forkerte Job!",
+			"SellInfo": "Du soglte $Amount krukker med Hjemmebryg for $Currency$MoneyAmount!"
+		},
+		"VGUI": {
+			"UpgradeTypeLimitReached": "Du kan ikke have mere end en opgradering af samme type!",
+			"Speed": "Hastighed",
+			"Sell": "Sælg",
+			"Buy": "Køb",
+			"Production": "Produktion",
+			"Ranks": "Stillinger",
+			"Installed": "Installeret",
+			"UpgradeMenu": "Opgraderings Menu",
+			"Shop": "Butik",
+			"UpgradeLimitReached": "Opgraderings grænsen er nået!"
+		}
+	}
+}

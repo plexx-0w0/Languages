@@ -1,0 +1,50 @@
+{
+	"phrases": {
+		"General": {
+			"YeastStew": "捣碎",
+			"Cleanit": "打扫它!",
+			"Fermenting": "发酵中!",
+			"ConstrtuctionCancelled": "施工取消!",
+			"BuyInfo": "你购买了 $ItemName 升级,这花费了你 $Currency$ItemPrice!",
+			"Sugar": "糖",
+			"ReleaseWater": "\"释放 水",
+			"Fuel": "燃料",
+			"WrongUserGroup": "错误的用户组!",
+			"Inventoryempty": "私酿库存为空!",
+			"Cooler": "冷却器",
+			"Shakeit": "摇它!",
+			"MissingCondenser": "缺失 凝结器!",
+			"Condenser": "凝结器",
+			"Fermentation": "发酵桶",
+			"Collect": "收集",
+			"Water": "水",
+			"MoonshineJars": "私酿酒罐!",
+			"Yeast": "酵母",
+			"NoMoney": "你钱不够",
+			"Depressurize": "减压",
+			"MissingCooler": "\"缺失 冷却器!",
+			"Extract": "提取",
+			"Distillery": "酒厂",
+			"SellInfo": "你出售了 $ItemName 升级,你收到了 $Currency$ItemPrice!"
+		},
+		"NPC": {
+			"NoMoonshine": "当你有私酿的时候再来找我吧!",
+			"MoonshineBuyer": "私酿买家",
+			"Jar": "酒罐",
+			"WrongJob": "职业错误!",
+			"SellInfo": "你出售了 $Amount 个私酿酒罐,你收到了 $Currency$MoneyAmount!"
+		},
+		"VGUI": {
+			"UpgradeTypeLimitReached": "你不能再进行同类型的升级!",
+			"Speed": "速度",
+			"Sell": "出售",
+			"Buy": "购买",
+			"Production": "产出",
+			"Ranks": "等级",
+			"Installed": "已安装",
+			"UpgradeMenu": "升级菜单",
+			"Shop": "商店",
+			"UpgradeLimitReached": "升级已达上线!"
+		}
+	}
+}

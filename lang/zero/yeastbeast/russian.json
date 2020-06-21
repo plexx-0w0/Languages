@@ -1,0 +1,50 @@
+{
+	"phrases": {
+		"General": {
+			"YeastStew": "Esmagar",
+			"Cleanit": "Limpe!",
+			"Fermenting": "Fermentando!",
+			"ConstrtuctionCancelled": "Construção cancelada!",
+			"BuyInfo": "Você comprou o aprimoramento $ItemName por $Currency$ItemPrice!",
+			"Sugar": "Açúcar",
+			"ReleaseWater": "Liberar Água",
+			"Fuel": "Combustível",
+			"WrongUserGroup": "Você não tem dinheiro suficiente!",
+			"Inventoryempty": "Moonshine Inventory está vazio!",
+			"Cooler": "Resfriador",
+			"Shakeit": "Agite!",
+			"MissingCondenser": "Faltando Condensador!",
+			"Condenser": "Condensador",
+			"Fermentation": "Barril de Fermentação",
+			"Collect": "Coletar",
+			"Water": "Água",
+			"MoonshineJars": "Pote de Moonshine!",
+			"Yeast": "Fermento",
+			"NoMoney": "UserGroup errado!",
+			"Depressurize": "Despressurizar",
+			"MissingCooler": "Faltando Resfriador!",
+			"Extract": "Extrair",
+			"Distillery": "Destilaria",
+			"SellInfo": "Você vendeu o aprimoramento $ItemName por $Currency$ItemPrice!"
+		},
+		"NPC": {
+			"NoMoonshine": "Volte aqui quando você tiver um pouco de Moonshine para mim!",
+			"MoonshineBuyer": "Comprador de Moonshine",
+			"Jar": "Pote",
+			"WrongJob": "Trabalho errado!",
+			"SellInfo": "Você vendeu $Amount Potes de Moonshine por $Currency$MoneyAmount!"
+		},
+		"VGUI": {
+			"UpgradeTypeLimitReached": "Você não pode ter mais de um aprimoramento do mesmo tipo!",
+			"Speed": "Velocidade",
+			"Sell": "Vender",
+			"Buy": "Comprar",
+			"Production": "Produção",
+			"Ranks": "Ranks",
+			"Installed": "Instalado",
+			"UpgradeMenu": "Menu de Aprimoramentos",
+			"Shop": "Loja",
+			"UpgradeLimitReached": "Limite de Aprimoramento alcançado!"
+		}
+	}
+}

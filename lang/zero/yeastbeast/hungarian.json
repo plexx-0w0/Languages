@@ -1,0 +1,50 @@
+{
+	"phrases": {
+		"General": {
+			"YeastStew": "Pép",
+			"Cleanit": "Tisztítsd le!",
+			"Fermenting": "Erjesztés alatt!",
+			"ConstrtuctionCancelled": "Az építkezés visszavonva!",
+			"BuyInfo": "Ön vásárolta meg a $ItemName frissítést $Currency$ItemPrice -ért!",
+			"Sugar": "Cukor",
+			"ReleaseWater": "Víz kiengedése",
+			"Fuel": "Üzemanyag",
+			"WrongUserGroup": "Rossz felhasznló csoport!",
+			"Inventoryempty": "A Moonshine Inventory üres!",
+			"Cooler": "Hűtő",
+			"Shakeit": "Rázd fel!",
+			"MissingCondenser": "Hiányzó kondenzátor!",
+			"Condenser": "Kondenzátor",
+			"Fermentation": "Erjesztő Hordó",
+			"Collect": "Gyűjt",
+			"Water": "Víz",
+			"MoonshineJars": "Moonshine üvegek!",
+			"Yeast": "Élesztő",
+			"NoMoney": "Nincs elég pénzed!",
+			"Depressurize": "Nyomáscsökkentés",
+			"MissingCooler": "Hiányzó hűtő!",
+			"Extract": "Kivonat",
+			"Distillery": "Szeszfőzde",
+			"SellInfo": "Eladtad a $ItemName -ot $Currency$ItemPrice! -ért!"
+		},
+		"NPC": {
+			"NoMoonshine": "Gyere vissza ha van nálad Moonshine!",
+			"MoonshineBuyer": "Moonshine Vásárló",
+			"Jar": "Üveg",
+			"WrongJob": "Rossz állás!",
+			"SellInfo": "Eladtál $Amount üveg Moonshinet $Currency$MoneyAmount! -ért!"
+		},
+		"VGUI": {
+			"UpgradeTypeLimitReached": "Nem vehetsz több azonos típusú fejlesztést!",
+			"Speed": "Sebesség",
+			"Sell": "Eladás",
+			"Buy": "Vétel",
+			"Production": "Termelés",
+			"Ranks": "Rangok",
+			"Installed": "Felszerelve",
+			"UpgradeMenu": "Fejlesztések Menü",
+			"Shop": "Bolt",
+			"UpgradeLimitReached": "Fejlesztések határ értéke elérve!"
+		}
+	}
+}
